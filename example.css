@@ -1,0 +1,12 @@
+.input[name="ccname"]{
+    height: auto;
+  }
+  .input[name="cardnumber"]{
+    height: auto;
+  }
+  .input[name="cvc"]{
+    height: auto;
+  }
+  .input[name="cc-exp"]{
+    height: auto;
+  }
